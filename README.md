@@ -1,6 +1,6 @@
 # ancient_Wallacea_f4_differences
 
-Bayesian linear regression scripts used in Oliveira et al., Ancient genomes from the last three millennia support multiple human dispersals into Wallacea. Preprint at *bioRxiv* (doi: https://doi.org/10.1101/2021.11.05.467435)
+Bayesian linear regression scripts used in Oliveira et al., 2022, Ancient genomes from the last three millennia support multiple human dispersals into Wallacea (doi: https://doi.org/10.1038/s41559-022-01775-2).
 
 
 # Details
